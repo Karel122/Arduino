@@ -1,4 +1,4 @@
-/*Poglej komentar pri datoteki wifi_simple_server.ino. Vse vse velja enako,
+/*Poglej komentar pri datoteki lcd_ip.ino. Vse vse velja enako,
 le da za ip-naslovom brez presledka natiškaš: /led/off ali /led/on */
 
 #include <Arduino.h>
