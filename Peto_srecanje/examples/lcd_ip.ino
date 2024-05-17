@@ -1,3 +1,8 @@
+/*Spodnja koda na lcd zaslonu izpiše ip naslov našega esp32 mikrokrmilnika.
+Ta ip naslov napišemo v spletni brskalnik, ki mora biti povezan na isto omrežje (isti wifi)
+kot našp krmilnik. Priporočam uporabo "hot_spot-a", saj je večina wifi routerjev zaradi
+svojih varnostnih protokolov nedostopna za izvebno naše aplikajice. */
+
 #include <Arduino.h>
 #include <WiFi.h>
 #include <ESPmDNS.h>
